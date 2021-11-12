@@ -5,9 +5,9 @@ Young Software Developer who is inspired to solve day to day problems using tech
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently...
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
