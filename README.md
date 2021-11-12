@@ -9,6 +9,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdnashe)](https://github.com/pdnashe/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfnashe)](https://github.com/pdnashe/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdnashe&show_icons=true)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdnashe&show_icons=true)
+
 
 
 <!--
