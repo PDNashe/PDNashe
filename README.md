@@ -3,20 +3,10 @@
 # Software Developer
 
 ### Skills: 
-- C#                    
-- .Net 
-- HTML                  
-- CSS   
-- BOOTSTRAP             
-- NodeJs
-- JAVA                  
-- SQL 
-- MONGODB               
-- ANDROID 
-- XAMARIN.FORMS         
-- NODEJS
-
-
+- C#  , .Net  ,  XAMARIN.FORMS 
+- HTML  , CSS , BOOTSTRAP                        
+- JAVA   ,  ANDROID                
+- SQL  , MONGODB , NodeJs              
 
 
 ### 🔭 I’m currently... 
