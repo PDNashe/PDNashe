@@ -2,7 +2,19 @@
 
 #### Software Developer
 
-Skills: C# / .Net / HTML / CSS / BOOTSTRAP / JAVA / SQL / MONGODB / ANDROID / XAMARIN.FORMS / NODEJS
+Skills: 
+- C#                    
+- .Net 
+- HTML                  
+- CSS   
+- BOOTSTRAP             
+- NodeJs
+- JAVA                  
+- SQL 
+- MONGODB               
+- ANDROID 
+- XAMARIN.FORMS         
+- NODEJS
 
 
 
