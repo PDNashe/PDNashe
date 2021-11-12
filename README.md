@@ -1,27 +1,19 @@
-### Hi there I'm ** PDNashe** 👋
+### Hi there  👋 I'm  PDNashe
 
 #### Software Developer
-Young Software Developer who is inspired to solve day to day problems using technology at its best.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: C# / .Net / HTML / CSS / BOOTSTRAP / JAVA / SQL / MONGODB / ANDROID / XAMARIN.FORMS / NODEJS
 
-- 🔭 I’m currently...
 
+
+
+🔭 I’m currently... 
+- Looking for a job
+- Working on personal projects
+
+📫 Contact me : pdnashe@zoho.com 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdnashe&show_icons=true&theme=gruvbox)
 
 
-<!--
-**PDNashe/PDNashe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
