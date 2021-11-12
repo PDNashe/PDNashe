@@ -1,10 +1,8 @@
 ![Design and Development](https://github.com/PDNashe/PDNashe/blob/main/LinkedIn%20Banner.png)
 
-## Hi there  👋 I'm  PDNashe
+# Software Developer
 
-### Software Developer
-
-Skills: 
+### Skills: 
 - C#                    
 - .Net 
 - HTML                  
@@ -21,11 +19,11 @@ Skills:
 
 
 
-🔭 I’m currently... 
+### 🔭 I’m currently... 
 - Looking for a job
 - Working on personal projects
 
-📫 Contact me : pdnashe@zoho.com 
+### 📫 Contact me : pdnashe@zoho.com 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdnashe&show_icons=true&theme=gruvbox)
 
