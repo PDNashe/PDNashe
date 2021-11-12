@@ -1,8 +1,8 @@
-### Hi there  👋 I'm  PDNashe
-
-#### Software Developer
-
 ![Design and Development](https://github.com/PDNashe/PDNashe/blob/main/LinkedIn%20Banner.png)
+
+## Hi there  👋 I'm  PDNashe
+
+### Software Developer
 
 Skills: 
 - C#                    
