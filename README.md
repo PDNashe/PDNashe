@@ -2,6 +2,8 @@
 
 #### Software Developer
 
+![Design and Development](https://github.com/PDNashe/PDNashe/blob/main/LinkedIn%20Banner.png)
+
 Skills: 
 - C#                    
 - .Net 
