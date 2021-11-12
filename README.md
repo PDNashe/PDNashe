@@ -7,7 +7,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdnashe)](https://github.com/pdnashe/github-readme-stats)
 
 
 
